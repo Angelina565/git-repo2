@@ -1,1 +1,1 @@
-Print (ÒHello World!!!Ó);Print ("How do you do");
+Print (ÒHello World!!!Ó);
