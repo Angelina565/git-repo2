@@ -1,3 +1,4 @@
-Print (ÒHello World!!!Ó);
-print ("Hello Everybody");print ("i'm so happy to see you!")
+Print (ï¿½Hello World!!! What's a surpriseï¿½);
+print ("Hello Everybody! how are you guys?");
+print ("i'm so happy to see you!")
 print ("let's have some fun")
